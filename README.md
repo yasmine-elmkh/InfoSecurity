@@ -1,4 +1,4 @@
-------------------------------------------------------------InfoSecurity--------------------------------------------------------------
+--------------------------------------------InfoSecurity--------------------------------------------------
 
 Ce projet est une reprise de la version du dépôt "Cybersecurity_VictorElias" attribuée le 5 mai 2025, dans le cadre d’un travail 
 pratique en sécurité des systèmes. L’objectif principal est d’implémenter une solution complète de sécurisation d’un site web existant,
